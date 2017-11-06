@@ -1,0 +1,5 @@
+ <li><a href="{% url 'listmake' make='honda' page=1 %}">HONDA</a></li>
+  <li><a href="{% url 'listmake' make='toyota' page=1 %}">TOYOTA</a></li>
+  <li><a href="{% url 'listmake' make='nissan' page=1 %}">NISSAN</a></li>
+
+<!--- Line 92 main2.html ------------- atcar project------>
